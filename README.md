@@ -23,7 +23,7 @@ Software Engineer at **Revolt Motors** building internal backend systems and aut
 - 🤖 Designed Playwright + TypeScript automation frameworks covering 200+ API cases and 50+ critical UI flows in production
 - 🧠 Built **Poshible.ai** — an AI-powered POSH Act Q&A platform with PDF ingestion, vector search (OpenSearch), and OpenAI integration handling 500+ daily queries
 - 🔍 Interested in: distributed backend systems, AI/LLM tooling, developer experience, and test infrastructure
-- 📍 Lucknow, India → Open to remote and relocation
+- 📍 Gurugram, Haryana, India → Open to remote and relocation
 
 ---
 
