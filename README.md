@@ -1,49 +1,35 @@
 ### Hi, I'm Yuvraj 👋
 
-SWE at **Revolt Motors** — building backend systems and automation infrastructure.
-Member of [@agentrust-io](https://github.com/agentrust-io) · OSS Contributor at Microsoft, Apify, mljar
-
----
-
-**What I work with**
+SWE @ **Revolt Motors** · [@agentrust-io](https://github.com/agentrust-io) · OSS Contributor [@microsoft](https://github.com/microsoft) [@apify](https://github.com/apify)
 
 ```typescript
-const stack = {
-  backend:  ["Node.js", "TypeScript", "Express", "PostgreSQL", "Redis"],
-  testing:  ["Playwright", "Selenium", "Appium", "JMeter"],
-  ai:       ["OpenAI", "OpenSearch", "AWS S3"],
-  devops:   ["Docker", "GitHub Actions"],
-};
+const stack = ["Node.js", "TypeScript", "Playwright", "PostgreSQL", "OpenAI", "Docker"];
 ```
 
 ---
 
 **Projects**
+- 🧠 [poshible-ai](https://github.com/yuvrajsingh2428/poshible-ai) — RAG Q&A platform · OpenAI + OpenSearch · 500+ daily queries
+- 🎭 [playwright-ui-api-suite](https://github.com/yuvrajsingh2428/playwright-fullstack-test-suite) — 83 tests · AJV contracts · GitHub Actions CI
+- 🔍 [JobHermes](https://github.com/yuvrajsingh2428/JobHermes) — Job tracker CLI + REST API · TypeScript
 
-| | Project | Stack |
-|---|---|---|
-| 🧠 | [poshible-ai](https://github.com/yuvrajsingh2428/poshible-ai) — RAG-based POSH Act Q&A · 500+ daily queries · 95% accuracy | Node.js · OpenAI · OpenSearch · AWS S3 |
-| 🎭 | [playwright-ui-api-suite](https://github.com/yuvrajsingh2428/playwright-fullstack-test-suite) — 83 tests · contract testing · CI mock server | Playwright · TypeScript · AJV |
-| 🔍 | [JobHermes](https://github.com/yuvrajsingh2428/JobHermes) — Job tracker CLI + REST API | TypeScript · Node.js · MongoDB |
-
----
-
-**Open Source**
-
-| Repo | PR |
-|---|---|
-| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit/pull/3010) | TypeScript SDK — skill-aware audit trail `+243 −4` |
-| [apify/crawlee](https://github.com/apify/crawlee/pull/3785) | Remove deprecated `browserPoolOptions` from BrowserCrawler |
-| [mljar/mercury](https://github.com/mljar/mercury/pull/581) | Custom theme support in login view |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense/pull/1525) | Unit tests for `async_retry` utility |
+**OSS**
+- [microsoft/agent-governance-toolkit#3010](https://github.com/microsoft/agent-governance-toolkit/pull/3010) — TypeScript SDK audit trail `+243 −4`
+- [apify/crawlee#3785](https://github.com/apify/crawlee/pull/3785) — BrowserCrawler refactor
+- [mljar/mercury#581](https://github.com/mljar/mercury/pull/581) — Custom theme in login view
+- [MODSetter/SurfSense#1525](https://github.com/MODSetter/SurfSense/pull/1525) — Unit tests for async_retry
 
 ---
 
-**Stats**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh2428&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh2428&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh2428&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yuvrajsingh2428&theme=tokyonight&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsingh2428&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="130"/>
+</p>
 
 ---
 
-📧 yuvrajsingh.connect@gmail.com · [LinkedIn](https://www.linkedin.com/in/yuvrajsingh024/) · [Portfolio](https://yuvrajsingh-dev.vercel.app/)
+📧 [yuvrajsingh.connect@gmail.com](mailto:yuvrajsingh.connect@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yuvrajsingh024/) · [Portfolio](https://yuvrajsingh-dev.vercel.app/) · [@itsyuvrajx](https://twitter.com/itsyuvrajx)
