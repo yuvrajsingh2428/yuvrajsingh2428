@@ -4,36 +4,28 @@
 
 SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS Contributor [@microsoft](https://github.com/microsoft) [@apify](https://github.com/apify)
 
-<p align="center">
-  <b><a href="https://www.linkedin.com/in/yuvrajsingh024/">LinkedIn</a></b> &nbsp;·&nbsp;
-  <b><a href="https://yuvrajsingh-dev.vercel.app/">Portfolio</a></b> &nbsp;·&nbsp;
-  <b><a href="mailto:yuvrajsingh.connect@gmail.com">Email</a></b> &nbsp;·&nbsp;
-  <b><a href="https://twitter.com/itsyuvrajx">@itsyuvrajx</a></b>
-</p>
+<b><a href="https://www.linkedin.com/in/yuvrajsingh024/">LinkedIn</a></b> &nbsp;·&nbsp; <b><a href="https://yuvrajsingh-dev.vercel.app/">Portfolio</a></b> &nbsp;·&nbsp; <b><a href="mailto:yuvrajsingh.connect@gmail.com">Email</a></b> &nbsp;·&nbsp; <b><a href="https://twitter.com/itsyuvrajx">@itsyuvrajx</a></b>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&color=0EA5E9&center=true&vCenter=true&width=1200&height=25&lines=Node.js+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Docker+%C2%B7+GitHub+Actions+%C2%B7+OpenAI+%C2%B7+AWS+S3+%C2%B7+Playwright+%C2%B7+Selenium+%C2%B7+Appium&pause=999999" />
 
 </div>
 
 **Projects**
-- 🧠 [poshible-ai](https://github.com/yuvrajsingh2428/poshible-ai) — RAG Q&A platform · OpenAI + OpenSearch · 500+ daily queries
-- 🎭 [playwright-ui-api-suite](https://github.com/yuvrajsingh2428/playwright-fullstack-test-suite) — 83 tests · AJV contracts · GitHub Actions CI
-- 🔍 [JobHermes](https://github.com/yuvrajsingh2428/JobHermes) — Job tracker CLI + REST API · TypeScript
+- [poshible-ai](https://github.com/yuvrajsingh2428/poshible-ai) — RAG Q&A · OpenAI + OpenSearch · 500+ daily queries
+- [playwright-ui-api-suite](https://github.com/yuvrajsingh2428/playwright-fullstack-test-suite) — 83 tests · AJV contracts · GitHub Actions CI
+- [JobHermes](https://github.com/yuvrajsingh2428/JobHermes) — Job tracker CLI + REST API · TypeScript
 
 **OSS**
-- [microsoft/agent-governance-toolkit#3010](https://github.com/microsoft/agent-governance-toolkit/pull/3010) — TypeScript SDK audit trail `+243 −4`
-- [apify/crawlee#3785](https://github.com/apify/crawlee/pull/3785) — BrowserCrawler refactor
-- [mljar/mercury#581](https://github.com/mljar/mercury/pull/581) — Custom theme in login view
-- [MODSetter/SurfSense#1525](https://github.com/MODSetter/SurfSense/pull/1525) — Unit tests for async_retry
+- microsoft/agent-governance-toolkit — TypeScript SDK audit trail `+243 −4`
+- apify/crawlee — BrowserCrawler refactor
+- mljar/mercury — Custom theme in login view
+- MODSetter/SurfSense — Unit tests for async_retry
 
 ---
-
 <div align="center">
 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh2428&theme=react-dark&hide_border=true&area=true&radius=6" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yuvrajsingh2428&theme=tokyonight&hide_border=true" height="130"/>
-&nbsp;
-
+</div>
 
 </div>
