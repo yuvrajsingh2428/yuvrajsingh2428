@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=500&color=0EA5E9&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yuvraj+%F0%9F%91%8B;Backend+Engineer;Automation+Architect;OSS+Contributor+%40Microsoft" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Yuvraj+Singh;Backend+Engineer;Automation+Architect;OSS+Contributor+%40Microsoft" />
 
 SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS Contributor [@microsoft](https://github.com/microsoft) [@apify](https://github.com/apify)
 
@@ -11,7 +11,7 @@ SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS C
   <b><a href="https://twitter.com/itsyuvrajx">@itsyuvrajx</a></b>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=0EA5E9&center=true&vCenter=true&width=800&height=25&lines=Node.js+·+TypeScript+·+Express+·+PostgreSQL+·+MongoDB+·+Redis+·+Docker+·+GitHub+Actions+·+OpenAI+·+AWS+S3+·+Playwright+·+Selenium+·+Appium" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&color=0EA5E9&center=true&vCenter=true&width=1200&height=25&lines=Node.js+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Docker+%C2%B7+GitHub+Actions+%C2%B7+OpenAI+%C2%B7+AWS+S3+%C2%B7+Playwright+%C2%B7+Selenium+%C2%B7+Appium&pause=999999" />
 
 </div>
 
