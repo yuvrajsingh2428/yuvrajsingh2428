@@ -27,5 +27,5 @@ SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS C
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh2428&theme=react-dark&hide_border=true&area=true&radius=6" width="100%"/>
 </div>
-
+<img src="https://your-name.vercel.app/api?username=yuvrajsingh2428&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 </div>
