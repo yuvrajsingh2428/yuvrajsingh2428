@@ -1,0 +1,23 @@
+{
+  "name": "yuvrajsingh2428",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajsingh2428/yuvrajsingh2428.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvrajsingh2428/yuvrajsingh2428/issues"
+  },
+  "homepage": "https://github.com/yuvrajsingh2428/yuvrajsingh2428#readme",
+  "dependencies": {
+    "@octokit/graphql": "^9.0.3"
+  }
+}
