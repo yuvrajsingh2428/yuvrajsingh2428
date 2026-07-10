@@ -42,7 +42,7 @@ const stars = user.repositories.nodes.reduce(
 );
 
 const stats = `<!--START_SECTION:stats-->
-🔀 **${prs}** PRs • 🐛 **${issues}** Issues • ⭐ **${stars}** Stars • 📦 **${repos}** Repositories
+🔀 ${prs} PRs • 🐛 ${issues} Issues • ⭐ ${stars} Stars • 📦 ${repos} Repositories
 <!--END_SECTION:stats-->`;
 
 const readme = fs.readFileSync("README.md", "utf8");
