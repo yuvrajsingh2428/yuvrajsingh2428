@@ -28,6 +28,6 @@ SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS C
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh2428&theme=react-dark&hide_border=true&area=true&radius=6" width="100%"/>
 </div>
 <!--START_SECTION:stats-->
-🔀 **0** PRs • 💻 **0** Commits • 🐛 **0** Issues • ⭐ **0** Stars
+🔀 **20** PRs • 🐛 **1** Issues • ⭐ **18** Stars • 📦 **59** Repositories
 <!--END_SECTION:stats-->
 </div>
