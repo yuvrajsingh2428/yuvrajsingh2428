@@ -11,6 +11,7 @@ SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS C
 </div>
 
 **Projects**
+- [openforge](https://github.com/yuvrajsingh2428/openforge) — AI-powered OSS contribution engine · Next.js 16 + Turborepo · Repo Intelligence & Mentorship
 - [poshible-ai](https://github.com/yuvrajsingh2428/poshible-ai) — RAG Q&A · OpenAI + OpenSearch · 500+ daily queries
 - [playwright-ui-api-suite](https://github.com/yuvrajsingh2428/playwright-fullstack-test-suite) — 83 tests · AJV contracts · GitHub Actions CI
 - [JobHermes](https://github.com/yuvrajsingh2428/JobHermes) — Job tracker CLI + REST API · TypeScript
@@ -24,9 +25,8 @@ SWE @ Revolt Motors · [@agentrust-io](https://github.com/agentrust-io) · OSS C
 ---
 <div align="center">
 
+<img src="https://ghchart.rshah.org/0ea5e9/yuvrajsingh2428" alt="Yuvraj's Contribution Chart" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh2428&theme=react-dark&hide_border=true&area=true&radius=6" width="100%"/>
-</div>
 <!--START_SECTION:stats-->
 🔀 42 PRs • 🐛 2 Issues • ⭐ 19 Stars • 📦 66 Repositories
 <!--END_SECTION:stats-->
