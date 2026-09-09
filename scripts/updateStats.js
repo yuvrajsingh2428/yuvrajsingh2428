@@ -1,5 +1,10 @@
 import fs from "fs";
 import { graphql } from "@octokit/graphql";
+import { generateActivityGraph } from "./generateGraph.js";
+
+const envContent = fs.existsSync(".env") ? fs.readFileSync(".env", "utf8") : "";
+const match = envContent.match(/GITHUB_TOKEN=["']?([^"'\r\n]+)/);
+const token = process.env.GITHUB_TOKEN || (match ? match[1] : "");
 
 const data = await graphql(
   `
@@ -25,7 +30,7 @@ const data = await graphql(
   `,
   {
     headers: {
-      authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+      authorization: `Bearer ${token}`,
     },
   }
 );
@@ -53,5 +58,6 @@ const updated = readme.replace(
 );
 
 fs.writeFileSync("README.md", updated);
-
 console.log("README updated successfully!");
+
+await generateActivityGraph(token, "yuvrajsingh2428");
