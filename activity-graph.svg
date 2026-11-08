@@ -24,141 +24,141 @@
       <text x="48" y="354.00" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">0</text>
     
       <line x1="60" y1="282.50" x2="850.00" y2="282.50" stroke="#5bcdec" stroke-opacity="0.15" stroke-dasharray="3,3" />
-      <text x="48" y="286.50" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">3</text>
+      <text x="48" y="286.50" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">2</text>
     
       <line x1="60" y1="215.00" x2="850.00" y2="215.00" stroke="#5bcdec" stroke-opacity="0.15" stroke-dasharray="3,3" />
-      <text x="48" y="219.00" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">6</text>
+      <text x="48" y="219.00" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">4</text>
     
       <line x1="60" y1="147.50" x2="850.00" y2="147.50" stroke="#5bcdec" stroke-opacity="0.15" stroke-dasharray="3,3" />
-      <text x="48" y="151.50" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">9</text>
+      <text x="48" y="151.50" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">6</text>
     
       <line x1="60" y1="80.00" x2="850.00" y2="80.00" stroke="#5bcdec" stroke-opacity="0.15" stroke-dasharray="3,3" />
-      <text x="48" y="84.00" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">12</text>
+      <text x="48" y="84.00" text-anchor="end" fill="#5bcdec" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">8</text>
     
 
   <!-- X Grid -->
   
         <line x1="60.00" y1="80" x2="60.00" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="60.00" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 2</text>
+        <text x="60.00" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 9</text>
       
         <line x1="191.67" y1="80" x2="191.67" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="191.67" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 7</text>
+        <text x="191.67" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 14</text>
       
         <line x1="323.33" y1="80" x2="323.33" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="323.33" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 12</text>
+        <text x="323.33" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 19</text>
       
         <line x1="455.00" y1="80" x2="455.00" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="455.00" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 17</text>
+        <text x="455.00" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 24</text>
       
         <line x1="586.67" y1="80" x2="586.67" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="586.67" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 22</text>
+        <text x="586.67" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 29</text>
       
         <line x1="718.33" y1="80" x2="718.33" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="718.33" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Oct 27</text>
+        <text x="718.33" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Nov 3</text>
       
         <line x1="850.00" y1="80" x2="850.00" y2="350.00" stroke="#5bcdec" stroke-opacity="0.1" stroke-dasharray="3,3" />
-        <text x="850.00" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Nov 1</text>
+        <text x="850.00" y="372.00" text-anchor="middle" fill="#5bcdec" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" opacity="0.8">Nov 8</text>
       
 
   <!-- Area Fill -->
-  <path d="M 60.00,125.00 C 64.39,162.50 77.56,316.25 86.33,350.00 C 95.11,383.75 103.89,327.50 112.67,327.50 C 121.44,327.50 130.22,346.25 139.00,350.00 C 147.78,353.75 156.56,350.00 165.33,350.00 C 174.11,350.00 182.89,350.00 191.67,350.00 C 200.44,350.00 209.22,368.75 218.00,350.00 C 226.78,331.25 235.56,237.50 244.33,237.50 C 253.11,237.50 261.89,335.00 270.67,350.00 C 279.44,365.00 288.22,327.50 297.00,327.50 C 305.78,327.50 314.56,361.25 323.33,350.00 C 332.11,338.75 340.89,275.00 349.67,260.00 C 358.44,245.00 367.22,252.50 376.00,260.00 C 384.78,267.50 393.56,301.25 402.33,305.00 C 411.11,308.75 419.89,297.50 428.67,282.50 C 437.44,267.50 446.22,233.75 455.00,215.00 C 463.78,196.25 472.56,158.75 481.33,170.00 C 490.11,181.25 498.89,271.25 507.67,282.50 C 516.44,293.75 525.22,237.50 534.00,237.50 C 542.78,237.50 551.56,286.25 560.33,282.50 C 569.11,278.75 577.89,203.75 586.67,215.00 C 595.44,226.25 604.22,335.00 613.00,350.00 C 621.78,365.00 630.56,308.75 639.33,305.00 C 648.11,301.25 656.89,323.75 665.67,327.50 C 674.44,331.25 683.22,331.25 692.00,327.50 C 700.78,323.75 709.56,308.75 718.33,305.00 C 727.11,301.25 735.89,308.75 744.67,305.00 C 753.44,301.25 762.22,282.50 771.00,282.50 C 779.78,282.50 788.56,305.00 797.33,305.00 C 806.11,305.00 814.89,275.00 823.67,282.50 C 832.44,290.00 845.61,338.75 850.00,350.00 L 850.00,350.00 L 60.00,350.00 Z" fill="url(#areaGradient)" />
+  <path d="M 60.00,181.25 C 64.39,209.38 77.56,327.50 86.33,350.00 C 95.11,372.50 103.89,316.25 112.67,316.25 C 121.44,316.25 130.22,366.88 139.00,350.00 C 147.78,333.13 156.56,237.50 165.33,215.00 C 174.11,192.50 182.89,203.75 191.67,215.00 C 200.44,226.25 209.22,276.88 218.00,282.50 C 226.78,288.13 235.56,271.25 244.33,248.75 C 253.11,226.25 261.89,175.63 270.67,147.50 C 279.44,119.38 288.22,63.13 297.00,80.00 C 305.78,96.88 314.56,231.88 323.33,248.75 C 332.11,265.63 340.89,181.25 349.67,181.25 C 358.44,181.25 367.22,254.38 376.00,248.75 C 384.78,243.13 393.56,130.63 402.33,147.50 C 411.11,164.38 419.89,327.50 428.67,350.00 C 437.44,372.50 446.22,288.13 455.00,282.50 C 463.78,276.88 472.56,310.63 481.33,316.25 C 490.11,321.88 498.89,321.88 507.67,316.25 C 516.44,310.63 525.22,288.13 534.00,282.50 C 542.78,276.88 551.56,288.13 560.33,282.50 C 569.11,276.88 577.89,248.75 586.67,248.75 C 595.44,248.75 604.22,282.50 613.00,282.50 C 621.78,282.50 630.56,243.13 639.33,248.75 C 648.11,254.38 656.89,310.63 665.67,316.25 C 674.44,321.88 683.22,282.50 692.00,282.50 C 700.78,282.50 709.56,305.00 718.33,316.25 C 727.11,327.50 735.89,361.25 744.67,350.00 C 753.44,338.75 762.22,248.75 771.00,248.75 C 779.78,248.75 788.56,344.38 797.33,350.00 C 806.11,355.63 814.89,305.00 823.67,282.50 C 832.44,260.00 845.61,226.25 850.00,215.00 L 850.00,350.00 L 60.00,350.00 Z" fill="url(#areaGradient)" />
 
   <!-- Line Chart -->
-  <path d="M 60.00,125.00 C 64.39,162.50 77.56,316.25 86.33,350.00 C 95.11,383.75 103.89,327.50 112.67,327.50 C 121.44,327.50 130.22,346.25 139.00,350.00 C 147.78,353.75 156.56,350.00 165.33,350.00 C 174.11,350.00 182.89,350.00 191.67,350.00 C 200.44,350.00 209.22,368.75 218.00,350.00 C 226.78,331.25 235.56,237.50 244.33,237.50 C 253.11,237.50 261.89,335.00 270.67,350.00 C 279.44,365.00 288.22,327.50 297.00,327.50 C 305.78,327.50 314.56,361.25 323.33,350.00 C 332.11,338.75 340.89,275.00 349.67,260.00 C 358.44,245.00 367.22,252.50 376.00,260.00 C 384.78,267.50 393.56,301.25 402.33,305.00 C 411.11,308.75 419.89,297.50 428.67,282.50 C 437.44,267.50 446.22,233.75 455.00,215.00 C 463.78,196.25 472.56,158.75 481.33,170.00 C 490.11,181.25 498.89,271.25 507.67,282.50 C 516.44,293.75 525.22,237.50 534.00,237.50 C 542.78,237.50 551.56,286.25 560.33,282.50 C 569.11,278.75 577.89,203.75 586.67,215.00 C 595.44,226.25 604.22,335.00 613.00,350.00 C 621.78,365.00 630.56,308.75 639.33,305.00 C 648.11,301.25 656.89,323.75 665.67,327.50 C 674.44,331.25 683.22,331.25 692.00,327.50 C 700.78,323.75 709.56,308.75 718.33,305.00 C 727.11,301.25 735.89,308.75 744.67,305.00 C 753.44,301.25 762.22,282.50 771.00,282.50 C 779.78,282.50 788.56,305.00 797.33,305.00 C 806.11,305.00 814.89,275.00 823.67,282.50 C 832.44,290.00 845.61,338.75 850.00,350.00" fill="none" stroke="#5bcdec" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" />
+  <path d="M 60.00,181.25 C 64.39,209.38 77.56,327.50 86.33,350.00 C 95.11,372.50 103.89,316.25 112.67,316.25 C 121.44,316.25 130.22,366.88 139.00,350.00 C 147.78,333.13 156.56,237.50 165.33,215.00 C 174.11,192.50 182.89,203.75 191.67,215.00 C 200.44,226.25 209.22,276.88 218.00,282.50 C 226.78,288.13 235.56,271.25 244.33,248.75 C 253.11,226.25 261.89,175.63 270.67,147.50 C 279.44,119.38 288.22,63.13 297.00,80.00 C 305.78,96.88 314.56,231.88 323.33,248.75 C 332.11,265.63 340.89,181.25 349.67,181.25 C 358.44,181.25 367.22,254.38 376.00,248.75 C 384.78,243.13 393.56,130.63 402.33,147.50 C 411.11,164.38 419.89,327.50 428.67,350.00 C 437.44,372.50 446.22,288.13 455.00,282.50 C 463.78,276.88 472.56,310.63 481.33,316.25 C 490.11,321.88 498.89,321.88 507.67,316.25 C 516.44,310.63 525.22,288.13 534.00,282.50 C 542.78,276.88 551.56,288.13 560.33,282.50 C 569.11,276.88 577.89,248.75 586.67,248.75 C 595.44,248.75 604.22,282.50 613.00,282.50 C 621.78,282.50 630.56,243.13 639.33,248.75 C 648.11,254.38 656.89,310.63 665.67,316.25 C 674.44,321.88 683.22,282.50 692.00,282.50 C 700.78,282.50 709.56,305.00 718.33,316.25 C 727.11,327.50 735.89,361.25 744.67,350.00 C 753.44,338.75 762.22,248.75 771.00,248.75 C 779.78,248.75 788.56,344.38 797.33,350.00 C 806.11,355.63 814.89,305.00 823.67,282.50 C 832.44,260.00 845.61,226.25 850.00,215.00" fill="none" stroke="#5bcdec" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" />
 
   <!-- Points -->
   
-      <circle cx="60.00" cy="125.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 2: 10 contributions</title>
-      </circle>
-      <circle cx="86.33" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 3: 0 contributions</title>
-      </circle>
-      <circle cx="112.67" cy="327.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 4: 1 contribution</title>
-      </circle>
-      <circle cx="139.00" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 5: 0 contributions</title>
-      </circle>
-      <circle cx="165.33" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 6: 0 contributions</title>
-      </circle>
-      <circle cx="191.67" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 7: 0 contributions</title>
-      </circle>
-      <circle cx="218.00" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Oct 8: 0 contributions</title>
-      </circle>
-      <circle cx="244.33" cy="237.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="60.00" cy="181.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 9: 5 contributions</title>
       </circle>
-      <circle cx="270.67" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="86.33" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 10: 0 contributions</title>
       </circle>
-      <circle cx="297.00" cy="327.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="112.67" cy="316.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 11: 1 contribution</title>
       </circle>
-      <circle cx="323.33" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="139.00" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 12: 0 contributions</title>
       </circle>
-      <circle cx="349.67" cy="260.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="165.33" cy="215.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 13: 4 contributions</title>
       </circle>
-      <circle cx="376.00" cy="260.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="191.67" cy="215.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 14: 4 contributions</title>
       </circle>
-      <circle cx="402.33" cy="305.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="218.00" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 15: 2 contributions</title>
       </circle>
-      <circle cx="428.67" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="244.33" cy="248.75" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 16: 3 contributions</title>
       </circle>
-      <circle cx="455.00" cy="215.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="270.67" cy="147.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 17: 6 contributions</title>
       </circle>
-      <circle cx="481.33" cy="170.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="297.00" cy="80.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 18: 8 contributions</title>
       </circle>
-      <circle cx="507.67" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="323.33" cy="248.75" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 19: 3 contributions</title>
       </circle>
-      <circle cx="534.00" cy="237.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="349.67" cy="181.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 20: 5 contributions</title>
       </circle>
-      <circle cx="560.33" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="376.00" cy="248.75" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 21: 3 contributions</title>
       </circle>
-      <circle cx="586.67" cy="215.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="402.33" cy="147.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 22: 6 contributions</title>
       </circle>
-      <circle cx="613.00" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="428.67" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 23: 0 contributions</title>
       </circle>
-      <circle cx="639.33" cy="305.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="455.00" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 24: 2 contributions</title>
       </circle>
-      <circle cx="665.67" cy="327.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="481.33" cy="316.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 25: 1 contribution</title>
       </circle>
-      <circle cx="692.00" cy="327.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="507.67" cy="316.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 26: 1 contribution</title>
       </circle>
-      <circle cx="718.33" cy="305.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="534.00" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 27: 2 contributions</title>
       </circle>
-      <circle cx="744.67" cy="305.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="560.33" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 28: 2 contributions</title>
       </circle>
-      <circle cx="771.00" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="586.67" cy="248.75" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 29: 3 contributions</title>
       </circle>
-      <circle cx="797.33" cy="305.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="613.00" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 30: 2 contributions</title>
       </circle>
-      <circle cx="823.67" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+      <circle cx="639.33" cy="248.75" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
         <title>Oct 31: 3 contributions</title>
       </circle>
-      <circle cx="850.00" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
-        <title>Nov 1: 0 contributions</title>
+      <circle cx="665.67" cy="316.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 1: 1 contribution</title>
+      </circle>
+      <circle cx="692.00" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 2: 2 contributions</title>
+      </circle>
+      <circle cx="718.33" cy="316.25" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 3: 1 contribution</title>
+      </circle>
+      <circle cx="744.67" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 4: 0 contributions</title>
+      </circle>
+      <circle cx="771.00" cy="248.75" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 5: 3 contributions</title>
+      </circle>
+      <circle cx="797.33" cy="350.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 6: 0 contributions</title>
+      </circle>
+      <circle cx="823.67" cy="282.50" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 7: 2 contributions</title>
+      </circle>
+      <circle cx="850.00" cy="215.00" r="3.5" fill="#ffffff" stroke="#5bcdec" stroke-width="2">
+        <title>Nov 8: 4 contributions</title>
       </circle>
 </svg>
